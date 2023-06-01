@@ -7,6 +7,8 @@ It is controlled by a Raspberry Pi Zero WH.
 
 Further parts:
 
+- Terratec P1 Powerbank Li-Ion 2600 mAh 171649, 5.49eur
+
 - 5 servo motors REELY 36 ANALOG- SERVO 0008
 (Nr. 1365555 / 4016138986273 or successor 2148502) at 4.99 eur (each)
 
