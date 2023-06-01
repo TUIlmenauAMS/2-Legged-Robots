@@ -3,6 +3,16 @@
 3D printing parts and description for little 2-legged robots
 The "stl" parts are for my   Raspirobo7 robot.
 
+It needs:
+
+2 foot_round075.stl
+
+1 hueftservos.stl
+
+2 knieservo_scad.stl
+
+1 ruecken2.stl
+
 It is controlled by a Raspberry Pi Zero WH.
 
 Further parts:
