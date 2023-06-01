@@ -41,3 +41,7 @@ https://shop.pimoroni.com/products/adafruit-16-channel-pwm-servo-bonnet-for-rasp
 
 - Micro SD Card, 32 GB, Noobs, 9.73 eur
 https://shop.pimoroni.com/products/noobs-32gb-microsd-card-3-1?variant=31703694245971
+
+Also see the information and videos on our Robotics website:
+
+https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/applied-media-systems-group/research-and-study-projects/research-projects/robotic-bipedal-robots
