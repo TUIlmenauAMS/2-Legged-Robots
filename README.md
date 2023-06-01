@@ -13,9 +13,9 @@ It needs:
 
 - 1 ruecken2.stl
 
-It is controlled by a Raspberry Pi Zero WH.
-
 Further parts:
+
+- It is controlled by a Raspberry Pi Zero WH.
 
 - Terratec P1 Powerbank Li-Ion 2600 mAh 171649, 5.49eur
 
