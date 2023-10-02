@@ -28,8 +28,8 @@
 #Gerald Schuller, November 2022
 
 #import smbus2 as smbus #for Python2
-import smbus   #for Python3
-from lsm303d import LSM303D
+import smbus   #for Python3, install with pip
+from lsm303d import LSM303D #install with pip
 import time
 import numpy as np
 #from scipy.signal import medfilt
