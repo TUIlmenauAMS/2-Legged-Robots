@@ -1,6 +1,6 @@
 # 2-Legged-Robots
 
-3D printing parts and description for little 2-legged robots
+Program and 3D printing parts and description for little 2-legged robots
 The "stl" parts are for my Raspirobo7 robot.
 The "..bin.stl" files are binare stl files, which are needed for a MuJoCo simulation.
 (see: https://colab.research.google.com/github/deepmind/mujoco/blob/main/python/tutorial.ipynb)
@@ -43,6 +43,9 @@ https://shop.pimoroni.com/products/adafruit-16-channel-pwm-servo-bonnet-for-rasp
 
 - Micro SD Card, 32 GB, Noobs, 9.73 eur
 https://shop.pimoroni.com/products/noobs-32gb-microsd-card-3-1?variant=31703694245971
+
+The program to let the robot walk in a learning manner is: raspirobo7_balancing_learning2
+It uses the optimization of "Random Directions" for learning and optimizing the walk. Hence it might take a while in the beginning until it learns to balance and walk.
 
 Also see the information and videos on our Robotics website:
 
