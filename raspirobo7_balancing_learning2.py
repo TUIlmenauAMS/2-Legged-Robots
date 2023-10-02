@@ -24,7 +24,7 @@
 #sudo apt-get install build-essential libi2c-dev i2c-tools python-dev libffi-dev
 #sudo pip install cffi smbus2 (for python2, for python3 it should be smbus and pip3)
 #sudo pip3 install adafruit-circuitpython-servokit
-#name: raspirobo4
+#name: raspirobo7
 #Gerald Schuller, November 2022
 
 #import smbus2 as smbus #for Python2
