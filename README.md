@@ -46,7 +46,7 @@ https://shop.pimoroni.com/products/noobs-32gb-microsd-card-3-1?variant=317036942
 
 The program to let the robot walk in a learning manner is: "raspirobo7_balancing_learning2.py"
 
-It uses the optimization of "Random Directions" for learning and optimizing the walk. Hence it might take a while in the beginning until it learns to balance and walk.
+It uses our probabilistc optimization of "Random Directions" for learning and optimizing the walk. Hence it might take a while in the beginning until it learns to balance and walk.
 
 Also see the information and videos on our Robotics website:
 
