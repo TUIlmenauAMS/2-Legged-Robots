@@ -44,6 +44,8 @@ https://shop.pimoroni.com/products/adafruit-16-channel-pwm-servo-bonnet-for-rasp
 - Micro SD Card, 32 GB, Noobs, 9.73 eur
 https://shop.pimoroni.com/products/noobs-32gb-microsd-card-3-1?variant=31703694245971
 
+The program "raspirobo7servoset90_only.py" sets all servos to the 90 degree position, for adjusting the legs and back to be straight at that position.
+
 The program to let the robot walk in a learning manner is: "raspirobo7_balancing_learning2.py"
 
 It uses our probabilistc optimization of "Random Directions" for learning and optimizing the walk. Hence it might take a while in the beginning until it learns to balance and walk.
