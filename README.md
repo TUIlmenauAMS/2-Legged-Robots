@@ -46,7 +46,7 @@ https://shop.pimoroni.com/products/noobs-32gb-microsd-card-3-1?variant=317036942
 
 The 2 ohm resistor is for the low pass filtered power suppy of the servo board. Since the servos can draw high power peaks, the 2200 uF capacitor is needed to supply thos power peaks. The resistor limits the current from the battery, to keep its volatge stable, to avoid the raspberry pi rebooting from a voltage drop. The 2 ohm resistor is solered in the servo board from the upper 5V soldering hole (viewed from looking at the front of the robot) to the left round soldering hole of the (unused) power plug. 
 
-This can be seen in [![picture](Raspirobo7_PXL_20241113_201906613.jpg)](Raspirobo7_PXL_20241113_201906613.jpg).
+This can be seen in this picture [![picture](Raspirobo7_PXL_20241113_201906613.jpg)](Raspirobo7_PXL_20241113_201906613.jpg).
 
 The acceleration sensor has the connections GND, scl, sda, 3V. They need to be connected, using flexible wires and soldering, to the corresponding soldering holes on the upper part ot the servo board.
 
