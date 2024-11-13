@@ -44,6 +44,8 @@ https://shop.pimoroni.com/products/adafruit-16-channel-pwm-servo-bonnet-for-rasp
 - Micro SD Card, 32 GB, Noobs, 9.73 eur
 https://shop.pimoroni.com/products/noobs-32gb-microsd-card-3-1?variant=31703694245971
 
+The 2 ohm resistor is for the low pass filtered power suppy of the servo board. Since the servos can draw high power peaks, the 2200 uF capacitor is needed to supply thos power peaks. The resistor limits the current from the battery, to keep its volatge stable, to avoid the raspberry pi rebooting from a voltage drop. The 2 ohm resistor is solered in the servo board from the upper 5V soldering hole (viewed from looking at the front of the robot) to the left round soldering hole of the (unused) power plug. 
+
 The program "raspirobo7servoset90_only.py" sets all servos to the 90 degree position, for adjusting the legs and back to be straight at that position.
 
 The program to let the robot walk in a learning manner is: "raspirobo7_balancing_learning2.py"
