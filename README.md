@@ -50,7 +50,7 @@ The acceleration sensor has the connections GND, scl, sda, 3V. They need to be c
 
 The program "raspirobo7servoset90_only.py" sets all servos to the 90 degree position, for adjusting the legs and back to be straight at that position.
 
-The program "raspirobo7servosetVertTilt.py" is for testing the accelerometer and find a vertical tilt angle that lets the robot stand in rest. 
+The program "raspirobo7servosetVertTilt.py" is for testing the accelerometer and find a vertical tilt angle that lets the robot stand in rest. This angel is then to be entered in the walking program "raspirobo7_balancing_learning2.py".
 
 The program to let the robot walk in a learning manner is: "raspirobo7_balancing_learning2.py"
 
