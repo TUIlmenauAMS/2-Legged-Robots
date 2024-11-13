@@ -48,7 +48,7 @@ The 2 ohm resistor is for the low pass filtered power suppy of the servo board. 
 
 The acceleration sensor has the connections GND, scl, sda, 3V. They need to be connected, using flexible wires and soldering, to the corresponding soldering holes on the upper part ot the servo board.
 
-The program "raspirobo7servoset90_only.py" sets all servos to the 90 degree position, for adjusting the legs and back to be straight at that position.
+The program "raspirobo7servoset90_only.py" sets all servos to the 90 degree position, for adjusting the legs and back to be straight at that position. This can also be used for testing the servos.
 
 The program "raspirobo7servosetVertTilt.py" is for testing the accelerometer and find a vertical tilt angle that lets the robot stand in rest. This angel is then to be entered in the walking program "raspirobo7_balancing_learning2.py".
 
