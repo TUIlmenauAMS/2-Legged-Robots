@@ -67,4 +67,5 @@ Also see the information and videos on our Robotics website:
 https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/applied-media-systems-group/research-and-study-projects/research-projects/robotic-bipedal-robots
 
 Many greetings,
+
   Gerald Schuller
