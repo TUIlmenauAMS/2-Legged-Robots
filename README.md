@@ -1,8 +1,10 @@
 # 2-Legged-Robots
 
-Program and 3D printing parts and description for little 2-legged robots
+Program and 3D printing parts and description for little 2-legged robots, like in this picture,
+[![picture](2leggedRobot_IMG_20221029_103316.jpg)](2leggedRobot_IMG_20221029_103316.jpg).
+
 The "stl" parts are for my Raspirobo7 robot.
-The "..bin.stl" files are binare stl files, which are needed for a MuJoCo simulation.
+The "..bin.stl" files are binary stl files, which are needed for a MuJoCo simulation.
 (see: https://colab.research.google.com/github/deepmind/mujoco/blob/main/python/tutorial.ipynb)
 
 It needs:
