@@ -4,6 +4,7 @@ Program and 3D printing parts and description for little 2-legged robots, like i
 [![picture](2leggedRobot_IMG_20221029_103316.jpg)](2leggedRobot_IMG_20221029_103316.jpg).
 
 Here is a video of the robot in action:
+
 https://player.vimeo.com/video/791830780?h=ef3d78c103
 
 The "stl" parts are for my Raspirobo7 robot.
