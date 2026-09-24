@@ -5,7 +5,7 @@ Program and 3D printing parts and description for little 2-legged robots, like i
 
 The "stl" parts are for my Raspirobo7 robot.
 The "..bin.stl" files are binary stl files, which are needed for a MuJoCo simulation.
-(see: https://colab.research.google.com/github/deepmind/mujoco/blob/main/python/tutorial.ipynb)
+(see: https://colab.research.google.com/drive/190HttyWH3-cmfSE2mszep3_cSGHyP7G-?usp=sharing)
 
 It needs:
 
