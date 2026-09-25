@@ -3,7 +3,7 @@
 Program and 3D printing parts and description for little 2-legged robots, like in this picture,
 [![picture](2leggedRobot_IMG_20221029_103316.jpg)](2leggedRobot_IMG_20221029_103316.jpg).
 
-Here is a video of the robot in action:
+Here is a video of the robot in action. There you can see the sideways spine joint and servo from behind (the white latch). This enables a simple and efficient way to shift the center of mass from one foot to the other, for walking:
 
 https://player.vimeo.com/video/791830780?h=ef3d78c103
 
